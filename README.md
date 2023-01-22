@@ -69,7 +69,7 @@ public static void admin(){
     }
 ```
 
-##Input/Output
+## Input/Output
 ```
 For User ...
 
