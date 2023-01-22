@@ -1,6 +1,6 @@
 # Assignment 2
 
-####Question 3 : Create Inputs and outputs Dominos Pizza Store and web site
+#### Question 3 : Create Inputs and outputs Dominos Pizza Store and web site
 
 ### Algorithm
 ```
