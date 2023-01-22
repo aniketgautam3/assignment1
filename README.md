@@ -7,14 +7,14 @@ Hexadecimal ranges from 0 - 15
 But from 10 to 16 it is written as A, B, C, D, E, F
 
 HexValue	BinaryValue	HexValue	BinaryValue
-0	           0000	      8	          1000
-1	           0001	      9	          1001
-2	           0010	      A	          1010
-3	           0011	      B	          1011
-4	           0100       C	          1100
-5	           0101	      D	          1101
-6	           0110	      E	          1110
-7	           0111	      F	          1111
+0	           0000	          8	          1000
+1	           0001	          9	          1001
+2	           0010	          A	          1010
+3	           0011	          B	          1011
+4	           0100           C	          1100
+5	           0101	          D	          1101
+6	           0110	          E	          1110
+7	           0111	          F	          1111
 
 
 Hex to Binary 24F
@@ -41,7 +41,7 @@ Octal	Binary Equivalent
 
 Octal to Binary
 
- 3	             2
+ 3	          2
 011             010
 
 
